@@ -1,4 +1,4 @@
-# Table Transport Robot
+# Table Detection (No Camera) and Transport Robot
 
 Autonomous table detection and transport system using laser-based perception for warehouse environments without camera dependency.
 
